@@ -1,0 +1,38 @@
+{
+  "departments" : [
+      {
+        "dept" : "SAP"
+      },
+      {
+        "dept" : "ORACLE"
+      },
+      {
+        "dept" : "JAVA"
+      },
+      {
+        "dept" : "NET"
+      },
+      {
+        "dept" : "NET"
+      },
+      {
+        "dept" : "NET"
+      },
+      {
+        "dept" : "NET"
+      },
+      {
+        "dept" : "NET"
+      },
+      {
+        "dept" : "NET"
+      },
+      {
+        "dept" : "NET"
+      },
+      {
+        "dept" : "NET"
+      }
+  
+  ]
+}
